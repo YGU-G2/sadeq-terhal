@@ -35,7 +35,7 @@ class TerhalApp extends StatelessWidget {
       ],
       theme: ThemeData(
         appBarTheme: const AppBarTheme(
-          backgroundColor: Colors.red,
+          backgroundColor: Colors.black,
           centerTitle: true,
         ),
       ),
